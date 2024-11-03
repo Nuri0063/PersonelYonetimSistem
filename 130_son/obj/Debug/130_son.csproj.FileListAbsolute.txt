@@ -1,0 +1,10 @@
+C:\Users\nurii\source\repos\130_son\130_son\bin\Debug\130_son.exe.config
+C:\Users\nurii\source\repos\130_son\130_son\bin\Debug\130_son.exe
+C:\Users\nurii\source\repos\130_son\130_son\bin\Debug\130_son.pdb
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\130_son.csproj.AssemblyReference.cache
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\_130_son.Form1.resources
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\_130_son.Properties.Resources.resources
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\130_son.csproj.GenerateResource.cache
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\130_son.csproj.CoreCompileInputs.cache
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\130_son.exe
+C:\Users\nurii\source\repos\130_son\130_son\obj\Debug\130_son.pdb
